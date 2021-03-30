@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lecturers View</string>
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings with your ones
+    Steps to find your strings :
+    1) Go to your App Dashboard at Back4App website.
+    2) Navigate to app's settings : Click on Server Settings -> Core Settings block -> SETTINGS
+    -->
+    <string name="back4app_app_id" translatable="false">FliqRaody1GNGi5Zj3EOTA59FRWR4myepw7UncCu</string>
+    <string name="back4app_client_key" translatable="false">g7JdZSSC6hOWGra3poFEiIJedHE2CXj0bcbsDNqz</string>
+    <string name="help">help</string>
+    <string name="refresh">refresh</string>
+    <string name="classes">Class Attended</string>
+    <string name="college">College Of Sceince(KNUST)</string>
+</resources>
